@@ -1,3 +1,10 @@
+Objective
+![image](https://github.com/user-attachments/assets/151a9eec-5965-4373-89e6-99babd2fcd1b)
+
+Store wants to create an annual sales report for 2022. So that, Owner can understand their customersand grow more sales in 2023.
+
+
+
 Store Data analysis
 Compare the sales and orders using single chart
 Which month got the highest sales and orders?
